@@ -7,6 +7,8 @@ GitHub has quite a bunch of useful things.
 
 Personal website: https://qualuo.github.io/
 
+_"Premature optimization is the root of all evil."
+Priorities, you know._
 
 <!--
 **qualuo/qualuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
