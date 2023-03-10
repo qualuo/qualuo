@@ -2,9 +2,6 @@
 
 GitHub has quite a bunch of useful things.
 
-- 🔭 I’m currently working on Cool Stuff™.
-- 👯 I’m looking to collaborate on Your Cool Stuff™.
-
 ### Personal website: https://qualuo.github.io/
 
 ### Wise Words
