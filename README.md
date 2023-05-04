@@ -8,8 +8,6 @@ GitHub has quite a bunch of useful things.
 
 > "Premature optimization is the root of all evil."   
 
-_If you know, you know._
-
 <!--
 **qualuo/qualuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
